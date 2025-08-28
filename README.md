@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Data Science @ Swinburne VN<br>Currently learning Rust and TypeScript<br>Doing C# and Ruby for Courses
+### Data Science @ Swinburne VN<br>Currently learning Rust and C#<br>Doing C# and Ruby for Courses
 
 
 <!-- # 💻 Tech: 
