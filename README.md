@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ### Data Science @ Swinburne VN<br>Currently learning Rust and C#<br>Doing C# and Ruby for Courses
 
 
